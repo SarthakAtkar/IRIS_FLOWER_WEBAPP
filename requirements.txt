@@ -1,0 +1,5 @@
+(1) python
+(2) streamlit==0.71.0
+(3) pandas==0.25.3
+(4) sklearn
+(5) Random Forest Classifier
