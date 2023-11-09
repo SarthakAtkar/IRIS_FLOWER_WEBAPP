@@ -13,7 +13,7 @@
      4. To predict the flower type i.e., predictions.
 * Streamlit - To design and implement the user interface (UI) of the web application with a focus on enhancing interactivity.
 
-:backhand_index_pointing_right: App Workflow :backhand_index_pointing_left:
+👉 App Workflow 👈
 1. User input parameters from basic Iris Dataset.
 2. Select the lengths and widths from sidebar slider.
 3. Using Random_Forest_Classifier ML Model.
